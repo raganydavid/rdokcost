@@ -1,4 +1,4 @@
-# Költség kezelő program
+# Költségkezelő program
 
 Refaktorálásra szánt.
 
